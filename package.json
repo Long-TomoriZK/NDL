@@ -1,0 +1,14 @@
+{
+  "name": "ndl",
+  "version": "1.0.0",
+  "description": "NDL Messenger Runtime Optimizer",
+  "main": "index.js",
+  "author": "NDL",
+  "license": "MIT",
+  "keywords": [
+    "messenger",
+    "facebook-bot",
+    "runtime",
+    "ndl"
+  ]
+}
